@@ -1,0 +1,4 @@
+https://tech.meituan.com/2017/10/11/o2o-intelligent-distribution.html
+https://tech.meituan.com/2020/02/20/meituan-delivery-operations-research.html
+https://tech.meituan.com/2018/07/26/peisong-sys-arch-evolution.html
+https://tech.meituan.com/2018/11/22/instant-logistics-distributed-system-architecture.html
